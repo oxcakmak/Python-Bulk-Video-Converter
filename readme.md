@@ -2,7 +2,7 @@
 
 
           
-# Bulk Video Converter
+# Python Bulk Video Converter
 
 A powerful desktop application for batch converting, compressing, and optimizing video files with a user-friendly interface.
 
