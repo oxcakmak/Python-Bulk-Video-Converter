@@ -1,0 +1,17 @@
+# Video Encoder Application Dependencies
+
+# GUI Framework
+PyQt5>=5.15.0
+
+# Video Processing
+ffmpeg-python>=0.2.0
+
+# Image Processing
+Pillow>=8.0.0
+
+# Utilities
+pathlib>=1.0.1
+python-i18n>=0.3.9
+
+# Development
+pyinstaller>=4.5.0  # For creating standalone executables
