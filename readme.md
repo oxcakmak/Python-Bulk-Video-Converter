@@ -6,7 +6,7 @@
 
 A powerful desktop application for batch converting, compressing, and optimizing video files with a user-friendly interface.
 
-![Bulk Video Converter](https://via.placeholder.com/800x450.png?text=Bulk+Video+Converter)
+![Bulk Video Converter](https://raw.githubusercontent.com/oxcakmak/Python-Bulk-Video-Converter/refs/heads/main/screenshot.jpg)
 
 ## Features
 
